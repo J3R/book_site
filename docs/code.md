@@ -18,7 +18,7 @@ Click <a href="http://nbviewer.ipython.org/urls/gist.githubusercontent.com/J3R/3
 
 ### Task 2.7.7: Tutorial on regular expressions
 
-Click <a href="http://nbviewer.ipython.org/urls/gist.githubusercontent.com/J3R/44937178d495ac2bc798/raw" target="_blank">here</a> to open in new a page/tab.
+Click [here](tutorial.md)</a> to access.
 
 ### Input file for Task 2.7.8
 
